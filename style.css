@@ -40,7 +40,7 @@ body{
     font-size: 16;
 }
 .container__botao:hover{
-    background-color:cornflowerblue;
+    background-color:rgb(157, 102, 173);
 
 }
 .botao_secundario{
